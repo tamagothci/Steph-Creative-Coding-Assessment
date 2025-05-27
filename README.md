@@ -9,7 +9,7 @@ description of the six outputs you chose, what language they're in (p5js, touch 
 1 - Week8audiofeedback - I created this output by following a tutorial by '
 bileam tschepe (elekktronaut)' on YouTube. I chose it because I felt like I learned a lot during the process. I started to understand how feedback loops work and where to add other TOPs to affect the outcome in different ways. I also find it really satisfying
 
-2 - Wk9_Fireflies - 
+2 - Wk9_Fireflies - I chose to submit this touch designer output because I played around for a long time
 
 3 - creative coding week11.3 - to find the code for this output please navigate to the container named 'Wk11_2' 
 
